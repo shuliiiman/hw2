@@ -99,8 +99,5 @@ public class Main {
         var theRightNumberOfEmployees = numberOfEmployee + 94;
         var anHonestNumberOfHours = hours/theRightNumberOfEmployees;
         System.out.println("Если в компаниии работает " +theRightNumberOfEmployees+ " человек, то всео "+ anHonestNumberOfHours + " часа работы может быть поделено между сотрудниками");
-
-
-
     }
 }
